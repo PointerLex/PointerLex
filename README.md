@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
 <h3 align="center">I enjoy developing mobile applications and web applications.</h3>
 <h5 align="center">Computer Engineering student at UCN, Chile.</h5>
-<p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)"><img src="https://github-profile-trophy.vercel.app/?username=pointerlex" alt="pointerlex" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
