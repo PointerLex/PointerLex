@@ -63,7 +63,7 @@
 </div>
 
 ###
-<i align="left">DEPLOYMEND AND CLOUD SERVICES</i>
+<i align="left">DEPLOYMENT AND CLOUD SERVICES</i>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
