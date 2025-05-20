@@ -63,6 +63,13 @@
 </div>
 
 ###
+<i align="left">DEPLOYMEND AND CLOUD SERVICES</i>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
 
 <h3 align="left">I also have experience using these tools</h3>
 
