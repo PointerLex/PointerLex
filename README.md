@@ -39,7 +39,7 @@
 ###
 
 ##
-<h3 align="left">I have worked with these technologies</h3>
+<h3 align="left">Frameworks</h3>
 
 ###
 
