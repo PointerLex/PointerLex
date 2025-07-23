@@ -2,7 +2,7 @@
 
 <h3 align="center">Computer Engineering student at UCN, Chile.</h3>
 
-<p align="center">I enjoy developing mobile applications and web applications.</p>
+<p align="center">I developing mobile applications and web applications.</p>
 
 ## 
 <h3 align="left">I have worked with these technologies</h3>
