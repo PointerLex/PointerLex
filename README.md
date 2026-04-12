@@ -1,6 +1,6 @@
 <p align="center">Hi 👋, I'm Alexis</p>
 
-<h3 align="center">Computer Engineering student at UCN, Chile.</h3>
+<h3 align="center">Computer Engineering, Chile.</h3>
 
 <p align="center">I developing mobile applications and web applications.</p>
 
@@ -8,18 +8,18 @@
 <h3 align="left">I have worked with these technologies</h3>
 
 ###
-<i align="left">PROGRAMMING LANGUAJES & TOOLS</i>
+<i align="left">PROGRAMMING LANGUAJES</i>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
+
 
 ###
 
@@ -32,6 +32,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
+###
+
+<i align="left">TESTING</i>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+</div>
 
 ###
 
@@ -70,10 +78,12 @@
 </div>
 
 ###
-<i align="left">DEPLOYMENT AND CLOUD SERVICES</i>
+<i align="left">DEPLOYMENT ON CLOUD SERVICES</i>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
 
 ###
@@ -94,6 +104,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
   <img width="12" />
+  
 </div>
 
 ###
